@@ -92,6 +92,10 @@ padding: 10px;
   min-width: 0px;
   }
 
+.search-bar:active {
+  outline: blue;
+}
+
   @media (max-width: 660px) {
     .search-bar {
       margin-top: 1000px;
