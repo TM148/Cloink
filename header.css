@@ -93,7 +93,7 @@ padding: 10px;
   }
 
 .search-bar:active {
-  outline: blue;
+  outline: rgb(55, 55, 55);
 }
 
   @media (max-width: 660px) {
